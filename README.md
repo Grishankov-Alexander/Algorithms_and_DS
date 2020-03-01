@@ -1,1 +1,3 @@
-"# Algorithms and Data Structures" 
+# Algorithms and Data Structures
+I've decided to study [tutorialspoint's basics of algorithms and data structures](https://www.tutorialspoint.com/data_structures_algorithms/index.htm). Over time, I will try to include C++ and Python files in this repository for each algorithm or data structure.
+Perhaps in the future I will try to study this topic even more deeply. In this case, I will use this repository to add new files.
